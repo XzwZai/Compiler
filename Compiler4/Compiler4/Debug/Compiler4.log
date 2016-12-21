@@ -1,0 +1,15 @@
+﻿  源.cpp
+f:\vs2015\compiler4\compiler4\源.cpp(481): warning C4018: “>=”: 有符号/无符号不匹配
+f:\vs2015\compiler4\compiler4\源.cpp(970): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\compiler4\compiler4\源.cpp(1832): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\compiler4\compiler4\源.cpp(1928): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\compiler4\compiler4\源.cpp(1934): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\compiler4\compiler4\源.cpp(1943): warning C4101: “vnum”: 未引用的局部变量
+f:\vs2015\compiler4\compiler4\源.cpp(2119): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\compiler4\compiler4\源.cpp(2133): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\compiler4\compiler4\源.cpp(2144): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\compiler4\compiler4\源.cpp(2233): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\compiler4\compiler4\源.cpp(2283): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\compiler4\compiler4\源.cpp(2284): warning C4018: “<”: 有符号/无符号不匹配
+  Compiler4.vcxproj -> F:\VS2015\Compiler4\Debug\Compiler4.exe
+  Compiler4.vcxproj -> F:\VS2015\Compiler4\Debug\Compiler4.pdb (Partial PDB)
